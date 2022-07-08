@@ -11,6 +11,9 @@
 
 Linux安装fastlane时不要安装官方的，直接安装这个fastlane版本，也可以同步官方更新
 复制`resign`目录到用户目录，配置`account.json` `.env` 等配置文件，运行打包命令cmd
+细节参考项目中PDF文档
+
+警告⚠️：仅仅用于研究学习
 
 ---
 
