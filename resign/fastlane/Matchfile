@@ -1,0 +1,8 @@
+git_url("git@github.com:wood911/ios-cert.git")
+
+type("development")
+type("adhoc")
+
+#app_identifier("com.mihaoyou.wechat")
+#username("Mackenzi.Jernb@mail.com")
+
